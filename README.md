@@ -1,4 +1,4 @@
 # MVCdemo
 Repo för MVC föreläsning
 
-Grymt bra förelässning
+Grymt bra föreläsning
